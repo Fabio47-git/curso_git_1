@@ -2,3 +2,4 @@ Testando repositório para subir no github.
 Adicionando um arquivo index.html ao projeto, de forma a ver como adicionar no git hub e comitar com git.
 Para adicionar um arquivo para que o mesmo seja monitorado pelo git hub usamos: git add . 
 Para salvar o arquivo , fazemos o commit da seguinte maneira: git commit index.html -m "Enviei somente o arquivo index"
+Por fim, no clone coloquei essa linha para testar atualização do clone. 
