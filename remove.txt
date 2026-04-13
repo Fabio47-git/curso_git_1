@@ -1,1 +1,0 @@
-Aqui é um arquivo para deletar , aprendendo sobre como usar o git rm.
